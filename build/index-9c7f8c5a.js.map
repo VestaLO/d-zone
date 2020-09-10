@@ -1,0 +1,1 @@
+{"version":3,"file":"index-9c7f8c5a.js","sources":["../../source/pages/Home/index.tsx"],"sourcesContent":[null],"names":["Game","React","lazy","import","id","Suspense","fallback"],"mappings":"oDAEe,KACd,MAAMA,EAAOC,EAAMC,KAAK,IAAMC,OAAO,wBAErC,OACCF,2BACCA,uBAAKG,GAAG,gBACPH,gBAACA,EAAMI,UAASC,SAAUL,qCACzBA,gBAACD"}

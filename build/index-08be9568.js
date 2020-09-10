@@ -1,0 +1,2 @@
+import{r as e}from"./index.bundle.js";const t={flexGrow:100,display:"flex",flexDirection:"column",alignItems:"flex-start",justifyContent:"center",padding:"1em"},i={fontSize:"48pt",margin:0,marginBottom:"0.5em"};export default()=>e.createElement("div",{style:t},e.createElement("h1",{style:i},"404 Not Found"),e.createElement("img",{src:"https://media.giphy.com/media/18hKuycmFuwaQ/giphy.gif",alt:"cat hides"}));
+//# sourceMappingURL=index-08be9568.js.map
